@@ -2,7 +2,7 @@ Getting Started Prerequisites Before you can run the React Movie App, make sure 
 
 Node.js: You need Node.js to run the application and its development tools. Installation Clone the repository to your local machine using Git:
 
- Copy code git clone https://github.com/your-username/react-movie-app.git Navigate to the project directory:
+ Copy code git clone https://github.com/Fortress-Dev10/fortress-hngtask2.git Navigate to the project directory:
 
  Copy code cd react-movie-app Install the project dependencies:
 
